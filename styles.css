@@ -1,0 +1,9 @@
+:root {
+    --title-primary: 24px;
+    --title-font: 700;
+}
+
+.title {
+    font-size: var(--title-primary);
+    font-weight: var(--title-font);
+}
